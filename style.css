@@ -183,7 +183,7 @@ container__section_header_boder1 {
   }
 
   .container__section_imagen1 {
-    background-position-x: 400px;
+    background-position-x: 350px;
     width: 545px;
     height: 288px;
     grid-column: 1/3;
@@ -211,7 +211,7 @@ container__section_header_boder1 {
     margin-bottom: auto;
   }
   body {
-    font-size: 0.87em;
+    font-size: 0.85em;
   }
   footer {
     margin-top: 35px;
