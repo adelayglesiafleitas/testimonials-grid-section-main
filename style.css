@@ -219,4 +219,7 @@ container__section_header_boder1 {
   .container__section_texto1 {
     margin-bottom: 10px;
   }
+  .container__section_texto5 {
+    margin-top: 30px;
+  }
 }
