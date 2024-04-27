@@ -215,4 +215,7 @@ container__section_header_boder1 {
   footer {
     margin-top: 35px;
   }
+  .container__section_texto1 {
+    margin-bottom: 10px;
+  }
 }
